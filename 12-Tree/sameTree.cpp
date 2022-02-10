@@ -1,4 +1,4 @@
-// problem link: https://leetcode.com/problems/diameter-of-binary-tree/
+// problem link: https://leetcode.com/problems/same-tree/
 
 #include<bits/stdc++.h>
 using namespace std;
